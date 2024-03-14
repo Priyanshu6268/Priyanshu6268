@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Priyanshu;+💡+Efficient+Data+Scientist;+Loves+To+Build+Products+✨;+💪+4+*+Smart+India+Hackathon+2023+Finalist;+⌛+Data+Science+Enthusiasts;">   
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Priyanshu;+💡+Efficient+Data+Analyst;+Loves+To+Build+Products+✨;+💪+4+*+Smart+India+Hackathon+2023+Finalist;+⌛+Data+Science+Enthusiasts;">   
 </p> 
 
 <!-- Your badges

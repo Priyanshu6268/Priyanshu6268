@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Saw</h1>
 <!-- <h3 align="center">A passionate  from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -33,20 +33,20 @@ I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep intere
                         🌱 I’m currently learning Deep Learning, Data Analytics, Development.
 
 <div align="center">
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamGupta92&theme=github_dark" />
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamGupta92&theme=github_dark"  />
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamGupta92&theme=github_dark"  />
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivamGupta92&theme=github_dark"/>
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivamGupta92&theme=github_dark&utcOffset=8" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu6268&theme=github_dark" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu6268&theme=github_dark"  />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu6268&theme=github_dark"  />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu6268&theme=github_dark"/>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu6268&theme=github_dark&utcOffset=8" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgupta92&show_icons=true&locale=en&layout=compact" alt="shivamgupta92&theme=github_dark" /> -->
 </div>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/Priyanshu6268)
+[![Priyanshu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/Priyanshu6268)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu6268&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshu6268&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu6268&&theme=tokyonight" alt="rishavchanda" /></p>
 
 

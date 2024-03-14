@@ -1,7 +1,7 @@
 <!-- Your title -->
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Saw</h1>
 <!-- <h3 align="center">A passionate  from India</h3> -->
-<img align="centre" alt ="Coding" width="250" src=https://github.com/Priyanshu6268/Priyanshu6268/assets/101616959/74551a57-18c0-41d0-b7db-800351372909>
+<img align="left" alt ="Coding" width="250" src=https://github.com/Priyanshu6268/Priyanshu6268/assets/101616959/74551a57-18c0-41d0-b7db-800351372909>
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">

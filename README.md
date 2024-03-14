@@ -41,7 +41,6 @@ I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep intere
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgupta92&show_icons=true&locale=en&layout=compact" alt="shivamgupta92&theme=github_dark" /> -->
 </div>
 
-[![Priyanshu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Priyanshu6268&&theme=xcode)](https://github.com/Priyanshu6268)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu6268&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 

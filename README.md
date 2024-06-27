@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://twitter.com/Priyanshu7470/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-0078D4?style=flat&logo=Twitter&logoColor=Black" alt="Priyanshu6268" /></a>
 <a href="https://www.leetcode.com/PRIYANSHU_KUMAR_SAW/" target="blank"><img align="center" src="https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow" alt="Priyanshu6268" /></a>
 
-![](https://komarev.com/ghpvc/?username=Priyanshu6268&color=dc143c)
+<a href="https://komarev.com/ghpvc/?username=Priyanshu6268&color=dc143c"></a>
 <!--
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShivamGupta92/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shivamgupta05/)

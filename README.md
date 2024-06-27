@@ -16,12 +16,14 @@ You can use the website to generate badges: https://shields.io/
 
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> -->
 <p align="center">   
-<a href="https://github.com/Priyanshu6268/" target="blank"><img align="center" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="ShivamGupta92"/></a>
-<a href="https://linkedin.com/in/priyanshu-kumar-saw/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="shivamgupta05" /></a>
-<a href="https://www.instagram.com/priyanshukumarsaw7470/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="shiivamgupta53"/></a>
-<a href="https://www.hackerrank.com/priyanshukumars4/" target="blank"><img align="center" src="https://img.shields.io/badge/Hackerrank-%232c5404?style=flat&logo=hackerrank&logoColor=green" alt="@shivkamgupta"/></a>
-<a href="https://twitter.com/Priyanshu7470/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-0078D4?style=flat&logo=Twitter&logoColor=Black" alt="Shivam_G03" /></a>
-<a href="https://www.leetcode.com/PRIYANSHU_KUMAR_SAW/" target="blank"><img align="center" src="https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow" alt="shivamgupta03" /></a>
+<a href="https://github.com/Priyanshu6268/" target="blank"><img align="center" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Priyanshu6268"/></a>
+<a href="https://linkedin.com/in/priyanshu-kumar-saw/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Priyanshu6268" /></a>
+<a href="https://www.instagram.com/priyanshukumarsaw7470/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Priyanshu6268"/></a>
+<a href="https://www.hackerrank.com/priyanshukumars4/" target="blank"><img align="center" src="https://img.shields.io/badge/Hackerrank-%232c5404?style=flat&logo=hackerrank&logoColor=green" alt="Priyanshu6268"/></a>
+<a href="https://twitter.com/Priyanshu7470/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-0078D4?style=flat&logo=Twitter&logoColor=Black" alt="Priyanshu6268" /></a>
+<a href="https://www.leetcode.com/PRIYANSHU_KUMAR_SAW/" target="blank"><img align="center" src="https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow" alt="Priyanshu6268" /></a>
+
+![](https://komarev.com/ghpvc/?username=Priyanshu6268&color=dc143c)
 <!--
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShivamGupta92/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shivamgupta05/)

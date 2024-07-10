@@ -61,7 +61,7 @@ I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep intere
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=Colab&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;\
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit&logoColor=1572B6)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/-ChaptGPT-05122A?style=flat&logo=ChatGPT&logoColor=007ACC)&nbsp;

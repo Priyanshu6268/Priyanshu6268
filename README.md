@@ -74,7 +74,6 @@ I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep intere
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu6268&theme=github_dark"  />
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu6268&theme=github_dark"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu6268&theme=github_dark&utcOffset=8" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu6268&show_icons=true&locale=en&layout=compact" alt="Priyanshu6268&theme=github_dark" />
 </div>
 
 

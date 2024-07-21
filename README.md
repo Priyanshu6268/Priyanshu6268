@@ -24,13 +24,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.leetcode.com/PRIYANSHU_KUMAR_SAW/" target="blank"><img align="center" src="https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow" alt="Priyanshu6268" /></a>
 
 
-<!--
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShivamGupta92/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shivamgupta05/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shiivamgupta5/)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%232c5404?style=flat&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/shivkamgupta/)
-[![Twitter](https://img.shields.io/badge/Twitter-0078D4?style=flat&logo=Twitter&logoColor=Black)](https://twitter.com/Shivam_G03/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow)](https://www.leetcode.com/shivamgupta03/)-->
+
 
 
 <div align="center"><b><h2>UnderGraduate | SIH 2023 FINALIST | HackWithIndia Winner 2024 | AI&ML Developer Intern at WictroniX | NITH Electrothon 5.0 Winner '23 </h2></b></div>
@@ -80,15 +74,15 @@ I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep intere
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu6268&theme=github_dark"  />
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu6268&theme=github_dark"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu6268&theme=github_dark&utcOffset=8" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgupta92&show_icons=true&locale=en&layout=compact" alt="shivamgupta92&theme=github_dark" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu6268&show_icons=true&locale=en&layout=compact" alt="Priyanshu6268&theme=github_dark" />
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu6268&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu6268&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Priyanshu6268" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshu6268&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshu6268&show_icons=true&locale=en&theme=tokyonight" alt="Priyanshu6268" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu6268&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu6268&&theme=tokyonight" alt="Priyanshu6268" /></p>
 
 
 ### Keen To Interact with Me? <br>

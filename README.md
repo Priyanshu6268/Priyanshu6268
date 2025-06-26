@@ -56,7 +56,7 @@ I am a Generative AI, Deep Learning Enthusiast, Programmer, and Technologist wit
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit&logoColor=1572B6)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
-![ChatGPT](https://img.shields.io/badge/-ChaptGPT-05122A?style=flat&logo=ChatGPT&logoColor=007ACC)&nbsp;
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=ChatGPT&logoColor=007ACC)&nbsp;
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat&logo=Generative-AI&logoColor=007ACC)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;

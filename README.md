@@ -46,6 +46,11 @@ I am a Generative AI, Deep Learning Enthusiast, Programmer, and Technologist wit
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat&logo=Generative-AI&logoColor=007ACC)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
@@ -58,11 +63,6 @@ I am a Generative AI, Deep Learning Enthusiast, Programmer, and Technologist wit
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=ChatGPT&logoColor=007ACC)&nbsp;
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat&logo=Generative-AI&logoColor=007ACC)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
-![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
 
 
 ![](https://komarev.com/ghpvc/?username=Priyanshu6268&color=dc143c)

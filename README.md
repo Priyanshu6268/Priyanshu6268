@@ -27,13 +27,13 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-<div align="center"><b><h2>Software Intern at Nokia | UnderGraduate | SIH 2023 FINALIST | HackWithIndia Winner 2024 | NITH Electrothon 5.0 Winner '23 </h2></b></div>
+<div align="center"><b><h2>Software Intern at Nokia | India AI Fellowship Holder | SIH 2023 FINALIST | HackWithIndia Winner 2024 | NITH Electrothon 5.0 Winner '23 </h2></b></div>
 
-I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep interest in Problem Solving. As a 'AI engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
+I am a Generative AI, Deep Learning Enthusiast, Programmer, and Technologist with a deep interest in Problem Solving. As a 'AI engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
 
-                        🔭 I’m currently working on Deep Learning and Data Analytics
+                        🔭 I’m currently working on Generative AI, Deep Learning and Data Analytics
                         
-                        🌱 I’m currently learning Deep Learning, Data Analytics, Development.
+                        🌱 I’m currently learning Generative AI, Deep Learning, Data Analytics, Development.
 
 
 **Motto** : Believe in having Faith in your Own Capabilities with a Never Give Up Attitude to add a Sauce of Success in your Life. <br>
@@ -45,14 +45,12 @@ I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep intere
 ## Technical Skills ✔
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=Colab&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;

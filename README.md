@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-<div align="center"><b><h2>Software Intern at Nokia | India AI Fellowship Holder | SIH 2023 FINALIST | HackWithIndia Winner 2024 | NITH Electrothon 5.0 Winner '23 </h2></b></div>
+<div align="center"><b><h2>Associate Engineer at Nokia | India AI Fellowship Holder | SIH 2023 FINALIST | HackWithIndia Winner 2024 | NITH Electrothon 5.0 Winner '23 </h2></b></div>
 
 I am a Generative AI, Deep Learning Enthusiast, Programmer, and Technologist with a deep interest in Problem Solving. As a 'AI engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
 
